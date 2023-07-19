@@ -1,0 +1,7 @@
+ 
+ {"integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.autoReplies": {
+
+    },
+    "terminal.integrated.defaultProfile.linux": ""
+}

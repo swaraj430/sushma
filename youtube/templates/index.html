@@ -1,0 +1,16 @@
+{%block content%}
+<h1>Hello World</h1>
+<h3>sushma swaraj-great leader</h3>
+<br/>
+    {% for post in posts %}
+        <ul>
+            <li>
+                <img height="200" src="{{post.image_url}}">
+            {{post.tittle}}</li>
+        </ul>
+    {%endfor%}
+{%endblock%}
+    
+  
+  
+
